@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContactApplication</string>
+    <string name="no_records">It seems currently no record exist. Please try again later.</string>
+    <string name="please_wait">please_wait</string>
+</resources>
