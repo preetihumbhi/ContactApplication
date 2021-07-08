@@ -28,6 +28,7 @@
             android:textColor="@android:color/black"
             android:textSize="@dimen/_15ssp"
             android:textStyle="bold"
+            android:imeOptions="actionNext"
             tools:ignore="MissingConstraints" />
 
         <EditText
@@ -37,6 +38,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/_5sdp"
             android:maxLines="1"
+            android:inputType="number"
+            android:imeOptions="actionDone"
             android:hint="Enter number"
             android:layout_marginLeft="@dimen/_4sdp"
             android:textColor="@android:color/black"
